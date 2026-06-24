@@ -12,14 +12,14 @@ MackroPad powerd by esp32 s3
 7. key caps (3d printed optional)
 
 # Sketches
-![Alt text](images/IMG_0119.jpeg)  ![Alt text](images/IMG_0119.jpeg)
-
-# Info
-
 <p>
   <img src="images/IMG_0119.jpeg" width="100"/>
   <img src="images/IMG_0119.jpeg" width="100"/>
 </p>
+
+# Info
+
+
 
 
 by Mauvi020
