@@ -1,106 +1,60 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-<meta charset="UTF-8">
-<title>SpaceDuckiPad</title>
+🚀 SpaceDuckiPad
 
-<style>
-body{
-    background:#050816;
-    color:white;
-    font-family:Courier New, monospace;
-    text-align:center;
-    margin:0;
-}
+A compact macro pad powered by an ESP32-S3.
 
-.header{
-    background:#3b82f6;
-    padding:30px;
-}
+✨ Features
 
-h1{
-    margin:0;
-    color:black;
-}
+* ESP32-S3 powered
+* 9 mechanical MX switches
+* Rotary encoder
+* 1.3” LCD display
+* Custom 3D printed case
+* Optional 3D printed keycaps
 
-.box{
-    max-width:700px;
-    margin:20px auto;
-    background:#0b1020;
-    border:3px solid #3b82f6;
-    padding:20px;
-}
+⸻
 
-h2{
-    color:#3b82f6;
-}
+🔧 Components
 
-img{
-    max-width:250px;
-    border:2px solid #3b82f6;
-    margin:10px;
-}
+Component	Quantity
+ESP32-S3	1
+Encoder	1
+1.3” LCD Display	1
+MX Switches	9
+30AWG Wire / Jumper Wire	As needed
+3D Printed Case	1
+Keycaps (optional)	9
 
-ul{
-    text-align:left;
-    display:inline-block;
-}
+⸻
 
-a{
-    color:#60a5fa;
-}
-</style>
+📸 Build
 
-</head>
-<body>
+<p align="center">
+  <img src="images/IMG_0119.jpeg" width="250">
+  <img src="images/IMG_0078.jpeg" width="250">
+</p>
 
-<div class="header">
-    <h1>🚀 SPACEDUCKIPAD</h1>
-    <p>Powered by ESP32-S3</p>
-</div>
+⸻
 
-<div class="box">
-    <h2>Components</h2>
+🛰️ About
 
- <ul>
-        <li>ESP32-S3</li>
-        <li>Encoder</li>
-        <li>1.3" LCD Display</li>
-        <li>9x MX Switches</li>
-        <li>30AWG Wire</li>
-        <li>3D Printed Case</li>
-        <li>3D Printed Keycaps</li>
-    </ul>
-</div>
+SpaceDuckiPad is a small programmable macro pad designed for productivity, shortcuts, media control and custom workflows.
 
-<div class="box">
-    <h2>Sketches</h2>
+Created by Mauvi020.
 
- <img src="images/IMG_0119.jpeg">
-    <img src="images/IMG_0078.jpeg">
+⸻
 
-</div>
+🌍 Links
 
-<div class="box">
-    <h2>Info</h2>
+* Website: https://spaceducki.de
+* Info: https://info.mauvi.de
+* Support: https://ko-fi.com/mauvi020
 
-<p>by Mauvi020</p>
+⸻
 
- <p>
-        <a href="https://spaceducki.de">spaceducki.de</a><br>
-        <a href="https://info.mauvi.de">info.mauvi.de</a>
-    </p>
+📧 Contact
 
- <p>
-      Support:<br>
-        <a href="https://ko-fi.com/mauvi020">Ko-Fi</a>
-    </p>
+support.mauvi@gmail.de
 
-<p>
-        Contact:<br>
-        support.mauvi@gmail.de
-    </p>
-</div>
+⸻
 
-</body>
-</html>
+Made with 💙 by SpaceDucki
