@@ -76,7 +76,7 @@ Button	GPIO
 Case Files
 (comming soon)
 Firmware
-<a href="LINK_ZUR_FIRMWARE.bin" download>
+<a href="LINK_ZUR_FIRMWARE.cpp" download>
     <button>⬇ Download Firmware</button>
 </a>
 
