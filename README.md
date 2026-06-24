@@ -17,7 +17,7 @@ components:
 
 by Mauvi020
 
-spaceducki.de | info.mauvi.de 
+https://spaceducki.de | https://info.mauvi.de 
 
 support = https://ko-fi.com/mauvi020
 contackt = support.mauvi@gmail.de
