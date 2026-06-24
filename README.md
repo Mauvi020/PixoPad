@@ -13,7 +13,8 @@ A compact macro pad powered by an ESP32-S3.
 5. jumper or 30awg wier
 6. case (3d printed)
 7. key caps (3d printed optional)
-
+8. 
+[Open Assembly Guide](Assembly.md)
 
 
 # 📸 Sketch
