@@ -14,7 +14,7 @@ A compact macro pad powered by an ESP32-S3.
 6. case (3d printed)
 7. key caps (3d printed optional)
 8. 
-[Open Assembly Guide](Assembly.md)
+[Open Assembly Guide](ASSEMBLY.md)
 
 
 # 📸 Sketch

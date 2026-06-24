@@ -93,4 +93,10 @@ Firmware
 
 ⸻
 
-Made with 💙 by SpaceDucki
+# 📧 Contact
+
+support.mauvi@gmail.de
+
+
+
+Made with 💙 by Mauvi020
