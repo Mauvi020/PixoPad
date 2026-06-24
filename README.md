@@ -12,7 +12,7 @@ MackroPad powerd by esp32 s3
 7. key caps (3d printed optional)
 
 # Sketches
-https://github.com/Mauvi020/SpaceDuckiPad/blob/main/images/IMG_0119.jpeg?raw=true
+(https://github.com/Mauvi020/SpaceDuckiPad/blob/main/images/IMG_0119.jpeg?raw=true)
 
 # Info
 
