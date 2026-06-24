@@ -2,7 +2,7 @@
 
 A compact macro pad powered by an ESP32-S3.
 
-⸻
+
 
 # 🔧 Components
 
@@ -15,9 +15,8 @@ A compact macro pad powered by an ESP32-S3.
 7. key caps (3d printed optional)
 
 
-⸻
 
-# 📸 Build
+# 📸 Sketch
 
 <table>
 <tr>
@@ -26,11 +25,9 @@ A compact macro pad powered by an ESP32-S3.
 </tr>
 </table>
 
-⸻
 
-Created by Mauvi020.
 
-⸻
+
 
 # 🌍 Links
 
@@ -46,4 +43,4 @@ support.mauvi@gmail.de
 
 ⸻
 
-Made with 💙 by SpaceDucki
+Made with 💙 by Mauvi020
