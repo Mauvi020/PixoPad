@@ -62,7 +62,7 @@ a{
 <div class="box">
     <h2>Components</h2>
 
-    <ul>
+ <ul>
         <li>ESP32-S3</li>
         <li>Encoder</li>
         <li>1.3" LCD Display</li>
@@ -76,26 +76,27 @@ a{
 <div class="box">
     <h2>Sketches</h2>
 
-    <img src="images/IMG_0119.jpeg">
+ <img src="images/IMG_0119.jpeg">
     <img src="images/IMG_0078.jpeg">
+
 </div>
 
 <div class="box">
     <h2>Info</h2>
 
-    <p>by Mauvi020</p>
+<p>by Mauvi020</p>
 
-    <p>
+ <p>
         <a href="https://spaceducki.de">spaceducki.de</a><br>
         <a href="https://info.mauvi.de">info.mauvi.de</a>
     </p>
 
-    <p>
-        Support:<br>
+ <p>
+      Support:<br>
         <a href="https://ko-fi.com/mauvi020">Ko-Fi</a>
     </p>
 
-    <p>
+<p>
         Contact:<br>
         support.mauvi@gmail.de
     </p>
