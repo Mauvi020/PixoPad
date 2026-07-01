@@ -2,7 +2,7 @@
 
 This project does not require a PCB.
 
-The SpaceDuckiPad is completely hand-wired using jumper wire or 30AWG wire.
+The PixoPad is completely hand-wired using jumper wire or 30AWG wire.
 
 The case consists of a main enclosure and a removable bottom plate. All components are installed and wired from the bottom before attaching the bottom plate.
 
@@ -30,21 +30,6 @@ BLK	3V3
 
 ⸻
 
-🎛️ KY-040 Rotary Encoder
-
-Encoder Pin	ESP32-S3 Pin
-
-VCC	3V3
-
-GND	GND
-
-CLK	GPIO4
-
-DT	GPIO5
-
-SW	GPIO6
-
-⸻
 
 ⌨️ Button Wiring
 
@@ -77,7 +62,7 @@ Button	GPIO
 🔨 Assembly
 
 1. Insert all 9 switches into the case.
-2. Install the rotary encoder.
+2. Install the rotary encoder.(removed)
 3. Install the ST7735 display.
 4. Place the ESP32-S3 inside the enclosure.
 5. Solder all display connections.
